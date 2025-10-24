@@ -1,6 +1,6 @@
 # Script de Extracción de Empresas FCT
 
-Este script automatiza la extracción de datos de empresas del sistema SAÓ FCT de la Generalitat Valenciana para gestionar las prácticas de alumnos.
+Este script automatiza la extracción de datos para gestionar las prácticas de alumnos.
 
 ## 🚀 Características
 
